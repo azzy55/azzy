@@ -1,0 +1,2 @@
+# azzy
+Um jogador apenas
